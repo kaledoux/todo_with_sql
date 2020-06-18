@@ -1,0 +1,8 @@
+ public | lists | table | kyle
+ public | todos | table | kyle
+
+ public | lists        | table    | kyle
+ public | lists_id_seq | sequence | kyle
+ public | todos        | table    | kyle
+ public | todos_id_seq | sequence | kyle
+
